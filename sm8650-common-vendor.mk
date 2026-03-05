@@ -810,6 +810,7 @@ PRODUCT_PACKAGES += \
     libdolbyeglcore \
     libdolbyencoderprocessor \
     libdolbyottcameracontrol \
+    liboemcrypto \
     libolc_vnd \
     liboplus_service \
     libosenseaidlhalclient \
